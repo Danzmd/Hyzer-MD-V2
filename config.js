@@ -27,24 +27,24 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://melcanz.com': 'elaina',
+  'https://melcanz.com': 'danz',
   'https://api.xteam.xyz': 'd37372311698ed1d',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
   'https://bsbt-api-rest.herokuapp.com': 'benniismael',
-  'https://api.zeks.xyz': 'apivinz',
+  'https://api.zeks.xyz': 'Danzbot',
   'https://hardianto-chan.herokuapp.com': 'hardianto',
-  'https://pencarikode.xyz': 'pais', 
+  'https://pencarikode.xyz': 'Danz', 
   'https://leyscoders-api.herokuapp.com': 'MIMINGANZ',
   'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'Deffbotz',
+  'https://api.lolhuman.xyz': 'Danzbotz',
 }
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
 global.stiker_wait = '*Stiker sedang dibuat*'
 global.packname = 'stickerby'
-global.author = `ArullOfc`
-global.wm = 'ArullBotzMD'
+global.author = `Danz botz`
+global.wm = 'DanzBotzMD'
 global.watermark = wm
 global.media = 'https://telegra.ph/file/6129a084ac3e0986bf31c.jpg'
 global.instagram = 'https://instagram.com/sahrulwara_____'
